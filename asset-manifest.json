@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/MCC-LDD/static/css/main.19fbfb69.css",
+    "main.css": "/MCC-LDD/static/css/main.24fb4ae1.css",
     "main.js": "/MCC-LDD/static/js/main.753c0414.js",
     "static/js/787.296f31cf.chunk.js": "/MCC-LDD/static/js/787.296f31cf.chunk.js",
-    "static/media/DashboardBackground.png": "/MCC-LDD/static/media/DashboardBackground.19beb360187f97b7132c.png",
+    "static/media/DashboardBackground.png": "/MCC-LDD/static/media/DashboardBackground.35439dfdcd5deefe615d.png",
     "static/media/Popup.png": "/MCC-LDD/static/media/Popup.4ee7ef14b3d04dece562.png",
     "static/media/logo.svg": "/MCC-LDD/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/MCC-LDD/index.html",
-    "main.19fbfb69.css.map": "/MCC-LDD/static/css/main.19fbfb69.css.map",
+    "main.24fb4ae1.css.map": "/MCC-LDD/static/css/main.24fb4ae1.css.map",
     "main.753c0414.js.map": "/MCC-LDD/static/js/main.753c0414.js.map",
     "787.296f31cf.chunk.js.map": "/MCC-LDD/static/js/787.296f31cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19fbfb69.css",
+    "static/css/main.24fb4ae1.css",
     "static/js/main.753c0414.js"
   ]
 }
